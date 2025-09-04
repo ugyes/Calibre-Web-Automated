@@ -26,12 +26,12 @@ msgstr "Statisztika"
 #: cps/admin.py:162
 #, fuzzy
 msgid "Server restarted, please reload page."
-msgstr "A kiszolgáló újraindult, tölts be újra az oldalt!"
+msgstr "A kiszolgáló újraindult, töltse be újra az oldalt!"
 
 #: cps/admin.py:164
 #, fuzzy
 msgid "Performing Server shutdown, please close window."
-msgstr "A kiszolgáló leállítása folyamatban, zárd be ezt az ablakot"
+msgstr "A kiszolgáló leállítása folyamatban, zárja be ezt az ablakot"
 
 #: cps/admin.py:172
 msgid "Success! Database Reconnected"
